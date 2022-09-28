@@ -19,3 +19,7 @@ Here is an overview of the gameplay. It's a 2D game but it's possible to change 
 <p align="center">
   <img width="720" alt="Color_Back_gameplay" src="https://user-images.githubusercontent.com/73184884/192686355-3f3515c4-07b3-4ce8-831c-48697f787d65.gif">
 </p>
+
+## State:
+- [X] Work in progress
+- [ ] Work completed
